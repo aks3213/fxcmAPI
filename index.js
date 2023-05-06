@@ -1,6 +1,6 @@
 const FXConnectLite = require("@gehtsoft/forex-connect-lite-node");
 
-const timeout = 5000;
+const timeout = 9000;
 const user = "701759855";
 const password = "v6Jzt";
 const tradingSystemUrl = "http://www.fxcorporate.com";
